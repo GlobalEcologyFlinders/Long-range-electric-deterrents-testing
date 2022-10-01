@@ -6,7 +6,7 @@
 - <strong>Corey J. A. Bradshaw</strong>, <a href="https://globalecologyflinders.com/">Global Ecology Lab</a>, Flinders University (<a href="mailto:corey.bradshaw@flinders.edu.au">e-mail</a>)
 
 <br>
-R code, data files, and references accompanying paper in review:
+R code, data files, and references accompanying paper in review:<br>
 <br>
 Riley, M, CJA Bradshaw, C Huveneers. 2022. Long-range electric deterrents not as effective as personal deterrents for reducing risk of shark bite. <em>ICES Journal of Marine Science</em> In review
 
