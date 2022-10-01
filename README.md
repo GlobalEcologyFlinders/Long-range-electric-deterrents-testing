@@ -7,7 +7,7 @@
 
 <br>
 R code, data files, and references accompanying paper in review:
-
+<br>
 Riley, M, CJA Bradshaw, C Huveneers. 2022. Long-range electric deterrents not as effective as personal deterrents for reducing risk of shark bite. <em>ICES Journal of Marine Science</em> In review
 
 ## Abstract
