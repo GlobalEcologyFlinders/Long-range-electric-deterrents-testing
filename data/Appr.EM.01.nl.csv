@@ -1,0 +1,107 @@
+trip,trial,det,ID,appr
+1,1,Boat01,Tia,5
+1,2,Boat01,Tia,5
+1,3,Boat01,Tia,3
+2,4,Control,Elfie,1
+2,5,Control,Elfie,1
+3,6,Boat01,Unknown,3
+3,6,Boat01,White Spot,1
+3,7,Control,Small,4
+3,7,Control,Unknown,1
+3,7,Control,White Spot,1
+3,8,Control,Shark 4,2
+3,8,Control,White Spot,1
+3,9,Control,Shark 4,7
+3,10,Boat01,Shark 4,8
+3,10,Boat01,Small,2
+3,10,Boat01,Unknown,1
+3,11,Control,Shark 4,2
+3,11,Control,Unknown,1
+3,12,Boat01,Bully,4
+3,12,Boat01,Itchy,10
+3,12,Boat01,Scratchy,2
+3,13,Control,Itchy,2
+3,13,Control,Unknown,5
+3,14,Control,Itchy,2
+3,14,Control,Unknown,8
+3,15,Boat01,Itchy,14
+3,15,Boat01,Scratchy,1
+3,15,Boat01,Unknown,4
+3,16,Boat01,Itchy,6
+3,16,Boat01,Kachow,3
+3,16,Boat01,Unknown,3
+4,17,Boat01,Shark 1,3
+4,18,Control,Shark 1,3
+4,18,Control,Shark 2,3
+4,19,Boat01,Old Tag,4
+4,20,Control,Old Tag,6
+4,21,Boat01,New Tagged,2
+4,21,Boat01,Old Tag,2
+4,22,Boat01,New Tagged,8
+4,22,Boat01,Unknown,3
+4,23,Control,New Tagged,10
+4,24,Boat01,Marlin,1
+4,24,Boat01,New Tagged,7
+4,25,Boat01,New Tagged,11
+4,25,Boat01,Unknown,5
+4,26,Control,Marlin,1
+4,26,Control,New Tagged,2
+4,27,Control,New tagged,4
+4,27,Control,New Tagged,7
+4,27,Control,Old Tag,1
+4,28,Boat01,New Tagged,2
+4,29,Control,Unknown,3
+4,30,Boat01,Old Tag,5
+4,31,Boat01,Marlin,4
+4,32,Boat01,Colleen,1
+4,32,Boat01,Old tag,1
+4,32,Boat01,Old Tag,22
+4,33,Control,Colleen,2
+4,33,Control,Old Tag,3
+4,34,Boat01,Colleen,1
+4,34,Boat01,Old Tag,24
+4,35,Control,Old Tag,3
+4,36,Boat01,Marlin,5
+4,37,Boat01,Marlin,4
+4,38,Control,Old tag,1
+4,38,Control,Old Tag,2
+4,39,Control,Marlin,4
+4,39,Control,Old Tag,1
+4,40,Boat01,Marlin,3
+4,40,Boat01,Unknown,1
+4,41,Boat01,Marlin,7
+4,41,Boat01,Unknown,1
+4,42,Control,Marlin,2
+4,42,Control,Old Tag,4
+4,43,Boat01,Marlin,2
+4,44,Boat01,Maeve,8
+4,45,Control,Maeve,1
+4,46,Boat01,Maeve,1
+4,46,Boat01,Old Tag,4
+4,47,Control,Old Tag,1
+4,48,Control,Old Tag,5
+4,48,Control,Unknown,2
+4,49,Control,New Tagged,1
+4,50,Boat01,New Tagged,3
+4,51,Control,Scar Face,3
+4,52,Boat01,Clippy,1
+4,52,Boat01,Flat Top,1
+4,52,Boat01,Unknown,1
+4,53,Control,New Tagged,3
+4,54,Control,Clippy,6
+4,55,Control,Clippy,2
+4,56,Boat01,Clippy,2
+4,56,Boat01,Marlin,4
+4,57,Control,Marlin,3
+4,58,Control,Scar Face,2
+4,58,Control,Staple,3
+4,59,Boat01,Clippy,6
+4,59,Boat01,Staple,29
+4,59,Boat01,Unknown,1
+4,60,Boat01,Staple,3
+4,61,Control,Staple,12
+4,62,Boat01,Staple,6
+4,62,Boat01,Unknown,3
+4,63,Control,Clippy,2
+4,64,Boat01,Staple,2
+4,64,Boat01,Unknown,1
