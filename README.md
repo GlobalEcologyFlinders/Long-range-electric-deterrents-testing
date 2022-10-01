@@ -1,4 +1,4 @@
-# Long-range-electric-deterrents-testing
+# Testing of long-range electric deterrents for reducing the risk of shark bite
 
 Principal contacts:<br>
 - <strong>Madeline Riley</strong> (née Thiele), <a href="https://twitter.com/SouthernSharkEG">Southern Shark Ecology Group</a> & <a href="https://globalecologyflinders.com/">Global Ecology Lab</a>, Flinders University (<a href="mailto:madeline.thiele@flinders.edu.au">e-mail</a>)
@@ -6,4 +6,4 @@ Principal contacts:<br>
 - <strong>Corey Bradshaw</strong>, <a href="https://globalecologyflinders.com/">Global Ecology Lab</a>, Flinders University (<a href="mailto:corey.bradshaw@flinders.edu.au">e-mail</a>)
 
 <br>
-Accompanies paper published in <em>Scientific Data</em>:
+Accompanies paper in review in in <em>ICES Journal of Marine Science</em>:
