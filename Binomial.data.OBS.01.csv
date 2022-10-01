@@ -1,0 +1,82 @@
+trip,trial,det,Bait.taken,eat,ID,count
+2,1,control,N,bait not taken,Elfie,1
+2,2,control,Y,bait taken,Old tag,3
+2,3,Boat01,N,bait not taken,Tommy,7
+3,4,Boat01,N,bait not taken,White Spot,7
+3,5,control,N,bait not taken,White Spot,2
+3,6,control,N,bait not taken,White Spot,2
+3,7,Boat01,N,bait not taken,Flat Top,2
+3,8,Boat01,N,bait not taken,Flat Top,1
+3,9,control,N,bait not taken,Shark 4,3
+3,10,control,N,bait not taken,Shark 4,12
+3,11,Boat01,N,bait not taken,Flat Top,1
+3,12,control,N,bait not taken,Flat Top,1
+3,13,Boat01,N,bait not taken,Scratchy,3
+3,14,control,N,bait not taken,Itchy,21
+3,15,Boat01,N,bait not taken,Itchy,17
+3,16,control,N,bait not taken,Itchy,22
+3,17,Boat01,N,bait not taken,Itchy,19
+3,18,Boat01,N,bait not taken,Itchy,9
+3,19,control,Y,bait taken,Shark 4,1
+3,20,control,Y,bait taken,B.I.G,8
+4,21,Boat01,N,bait not taken,Shark 1,1
+4,22,control,N,bait not taken,Shark 1,1
+4,23,Boat01,Y,bait taken,Old tag,6
+4,24,control,Y,bait taken,Old tag,9
+4,25,Boat01,Y,bait taken,New tagged,6
+4,26,Boat01,N,bait not taken,New tagged,4
+4,27,control,Y,bait taken,New Tagged,11
+4,28,control,Y,bait taken,Old tag,5
+4,29,Boat01,Y,bait taken,Marlin,7
+4,30,Boat01,N,bait not taken,New tagged,4
+4,31,control,Y,bait taken,Marlin,1
+4,32,control,N,bait not taken,New tagged,7
+4,33,Boat01,N,bait not taken,New tagged,3
+4,34,Boat01,N,bait not taken,New tagged,2
+4,35,control,Y,bait taken,New Tagged,5
+4,36,control,Y,bait taken,New tagged,9
+4,37,Boat01,Y,bait taken,Old tag,7
+4,38,Boat01,Y,bait taken,Marlin,3
+4,39,control,N,bait not taken,Old tag,8
+4,40,Boat01,N,bait not taken,Old tag,31
+4,41,control,Y,bait taken,Old tag,5
+4,42,Boat01,Y,bait taken,Marlin,6
+4,43,Boat01,Y,bait taken,Marlin,9
+4,44,control,Y,bait taken,Old tag,9
+4,45,control,Y,bait taken,Marlin,9
+4,46,Boat01,Y,bait taken,Marlin,7
+4,47,Boat01,Y,bait taken,Marlin,12
+4,48,control,N,bait not taken,Marlin,5
+4,49,Boat01,Y,bait taken,Old tag,4
+4,50,Boat01,Y,bait taken,Marlin,4
+4,51,control,Y,bait taken,New tagged,11
+4,52,Boat01,N,bait not taken,Marlin,1
+4,53,Boat01,Y,bait taken,Maeve,7
+4,54,control,Y,bait taken,Maeve,5
+4,55,control,Y,bait taken,Maeve,5
+4,56,Boat01,Y,bait taken,Maeve,4
+4,57,Boat01,N,bait not taken,Maeve,3
+4,58,Boat01,N,bait not taken,Old tag,32
+4,59,control,Y,bait taken,New tagged,11
+4,60,control,Y,bait taken,Old tag,1
+4,61,control,N,bait not taken,Old tag,15
+4,62,Boat01,N,bait not taken,Flat top,1
+4,63,control,Y,bait taken,New tagged,7
+4,64,Boat01,N,bait not taken,New tagged,18
+4,65,control,Y,bait taken,New tagged,5
+4,66,Boat01,N,bait not taken,Clippy,3
+4,67,Boat01,N,bait not taken,New tagged,2
+4,68,control,Y,bait taken,New tagged,5
+4,69,Boat01,N,bait not taken,New tagged,1
+4,70,control,Y,bait taken,Clippy,7
+4,71,Boat01,Y,bait taken,Scar face,5
+4,72,control,Y,bait taken,Clippy,4
+4,73,Boat01,Y,bait taken,Marlin,11
+4,74,control,N,bait not taken,Marlin,4
+4,75,control,Y,bait taken,Scar face,5
+4,76,Boat01,N,bait not taken,Clippy,7
+4,77,Boat01,Y,bait taken,New tagged,4
+4,78,control,Y,bait taken,New tagged,20
+4,79,Boat01,Y,bait taken,New tagged,8
+4,80,control,Y,bait taken,Clippy,1
+4,81,Boat01,N,bait not taken,New tagged,3

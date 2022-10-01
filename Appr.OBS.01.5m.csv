@@ -1,0 +1,153 @@
+trip,trial,det,ID,appr
+2,1,Control,Elfie,1
+2,2,Control,Elfie,3
+2,2,Control,Old tag,3
+2,3,Boat01,Tommy,5
+3,4,Boat01,White Spot,5
+3,6,Control,Small,3
+3,6,Control,White Spot,1
+3,8,Boat01,Flat Top,1
+3,9,Control,Shark 4,1
+3,9,Control,White Spot,1
+3,10,Control,Flat Top,1
+3,10,Control,Shark 4,5
+3,11,Boat01,Small,9
+3,12,Control,Flat Top,1
+3,12,Control,Scratchy,1
+3,12,Control,Shark 4,2
+3,12,Control,Small,2
+3,13,Boat01,Itchy,7
+3,13,Boat01,New ,5
+3,13,Boat01,Scratchy,1
+3,14,Control,Itchy,14
+3,14,Control,Unknown,3
+3,15,Boat01,Itchy,13
+3,15,Boat01,Unknown,1
+3,16,Control,Itchy,20
+3,16,Control,Unknown,5
+3,17,Boat01,Itchy,14
+3,17,Boat01,Scratchy,2
+3,17,Boat01,Unknown,2
+3,18,Boat01,Itchy,7
+3,18,Boat01,Shark 4,5
+3,18,Boat01,Unknown,6
+3,19,Control,Unknown,1
+3,20,Control,B.I.G,8
+3,20,Control,Flat Top,1
+3,20,Control,Itchy,2
+4,21,Boat01,Shark 1,1
+4,21,Boat01,Unknown,1
+4,22,Control,Shark 1,1
+4,22,Control,Shark 2,1
+4,22,Control,Unknown,27
+4,23,Boat01,Old tag,1
+4,23,Boat01,Unknown,5
+4,24,Control,Unknown,8
+4,25,Boat01,New tagged,6
+4,25,Boat01,Unknown,3
+4,26,Boat01,New tagged,3
+4,26,Boat01,Unknown,7
+4,27,Control,Unknown,9
+4,28,Control,New tagged,5
+4,28,Control,Old tag,3
+4,28,Control,Unknown,6
+4,29,Boat01,Marlin,1
+4,29,Boat01,New tagged,4
+4,29,Boat01,Unknown,7
+4,30,Boat01,New tagged,3
+4,30,Boat01,Unknown,8
+4,31,Control,Marlin,1
+4,31,Control,New tagged,1
+4,32,Control,New tagged,5
+4,32,Control,Old tag,2
+4,32,Control,Unknown,10
+4,33,Boat01,New tagged,1
+4,33,Boat01,Unknown,18
+4,34,Boat01,New tagged,2
+4,34,Boat01,Unknown,4
+4,35,Control,Maeve ,1
+4,35,Control,Unknown,5
+4,36,Control,New tagged,7
+4,36,Control,Unknown,2
+4,37,Boat01,Old tag,37
+4,38,Boat01,Marlin,2
+4,39,Control,Old tag,8
+4,39,Control,Unknown,1
+4,40,Boat01,Old tag,31
+4,40,Boat01,Unknown,3
+4,41,Control,Old tag,5
+4,42,Boat01,Marlin,6
+4,42,Boat01,Old tag,2
+4,43,Boat01,Marlin,9
+4,43,Boat01,Old tag,2
+4,44,Control,Old tag,9
+4,45,Control,Marlin,9
+4,45,Control,Old tag,3
+4,46,Boat01,Marlin,7
+4,46,Boat01,Old tag,1
+4,47,Boat01,Marlin,10
+4,48,Control,Marlin,4
+4,48,Control,Old tag,6
+4,49,Boat01,Old tag,4
+4,50,Boat01,Marlin,3
+4,51,Control,Marlin,3
+4,51,Control,New tagged,11
+4,52,Boat01,Marlin,1
+4,52,Boat01,Old tag,9
+4,53,Boat01,Maeve,6
+4,54,Control,Maeve,4
+4,55,Control,Maeve,4
+4,55,Control,Old tag,3
+4,56,Boat01,Maeve,4
+4,57,Boat01,Maeve,2
+4,57,Boat01,Old tag,5
+4,57,Control,Marlin,4
+4,57,Control,Old tag,1
+4,58,Boat01,Old tag,32
+4,58,Boat01,Unknown,2
+4,59,Control,New tagged,8
+4,59,Control,Old tag,2
+4,60,Control,Old tag,1
+4,61,Control,Old tag,15
+4,62,Boat01,Flat top,1
+4,62,Boat01,New tagged,13
+4,63,Control,New tagged,5
+4,63,Control,Unknown,2
+4,64,Boat01,New tagged,18
+4,65,Control,Flat top,2
+4,65,Control,New tagged,5
+4,65,Control,Scar face,2
+4,65,Control,Unknown,1
+4,66,Boat01,Clippy,3
+4,66,Boat01,Flat top,2
+4,66,Boat01,New tagged,8
+4,66,Boat01,Unknown,1
+4,67,Boat01,New tagged,2
+4,67,Boat01,Unknown,4
+4,68,Control,Flat top,1
+4,68,Control,New tagged,5
+4,68,Control,Scar face,3
+4,68,Control,Unknown,2
+4,69,Boat01,New tagged,1
+4,69,Boat01,Scar face,3
+4,70,Control,Clippy,6
+4,70,Control,Flat top,1
+4,71,Boat01,Clippy,1
+4,71,Boat01,Scar face,2
+4,72,Control,Clippy,4
+4,73,Boat01,Clippy,4
+4,73,Boat01,Marlin,10
+4,74,Control,Marlin,4
+4,75,Control,Scar face,5
+4,76,Boat01,Clippy,6
+4,76,Boat01,New tagged,30
+4,76,Boat01,Unknown,2
+4,77,Boat01,New tagged,4
+4,78,Control,New tagged,17
+4,79,Boat01,Marlin,1
+4,79,Boat01,New tagged,8
+4,79,Boat01,Unknown,1
+4,80,Control,Clippy,1
+4,80,Control,New tagged,2
+4,81,Boat01,New tagged,2
+NA,NA,NA,NA,10
