@@ -15,6 +15,19 @@ While personal electric deterrents can reduce the risk of shark bite, evidence f
 
 <img align="center" src="www/fig1.png" alt="Experimental set-up during deterrent-test trials, showing (a) the entire experimental set-up and (b) the stereo-camera" width="1000" style="margin-top: 20px">
 
+## Required R libraries
+- <code>lme4</code>
+- <code>boot</code>
+- <code>Hmisc</code>
+- <code>ggplot2</code>
+- <code>plyr</code>
+- <code>ggpubr</code>
+- <code>dplyr</code>
+- <code>tidyr</code>
+- <code>tidyverse</code>
+- <code>hrbrthemes</code>
+- <code>viridis</code>
+
 ## References
 We also provide some PDF copies of relevant references cited in the paper (in the <a href="https://github.com/MadelineRiley95/Long-range-electric-deterrents-testing/tree/main/refs"><em>refs</em></a> folder):
 - Bradshaw, CJA, P Meagher, MJ Thiele, RG Harcourt, C Huveneers. 2021. Predicting potential future reduction in shark bites on people. <em>Royal Society Open Science</em> 8: 201197. doi:<a href="http://doi.org/10.1098/rsos.201197">10.1098/rsos.201197</a> (see also relevant <a href="https://github.com/cjabradshaw/sharkbite">Github repository</a>)
