@@ -1,4 +1,4 @@
-# Testing of long-range electric deterrents for reducing the risk of shark bite
+# Testing the performance of long-range electric deterrents for reducing the risk of shark bite
 <img align="right" src="www/shark2.png" alt="thylacine" width="300" style="margin-top: 20px">
 
 - <strong>Madeline Riley</strong> (née Thiele), <a href="https://twitter.com/SouthernSharkEG">Southern Shark Ecology Group</a> & <a href="https://globalecologyflinders.com/">Global Ecology Lab</a>, Flinders University (<a href="mailto:madeline.thiele@flinders.edu.au">e-mail</a>)
