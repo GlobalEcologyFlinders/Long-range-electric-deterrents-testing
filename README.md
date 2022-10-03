@@ -1,5 +1,5 @@
 # Testing the performance of long-range electric deterrents for reducing the risk of shark bite
-<img align="right" src="www/shark2.png" alt="thylacine" width="300" style="margin-top: 20px">
+<img align="right" src="www/shark2.png" alt="shark" width="300" style="margin-top: 20px">
 
 - <strong>Madeline Riley</strong> (née Thiele), <a href="https://twitter.com/SouthernSharkEG">Southern Shark Ecology Group</a> & <a href="https://globalecologyflinders.com/">Global Ecology Lab</a>, Flinders University (<a href="mailto:madeline.thiele@flinders.edu.au">e-mail</a>)
 - <strong>Charlie Huveneers</strong>, <a href="https://twitter.com/SouthernSharkEG">Southern Shark Ecology Group</a>, Flinders University (<a href="mailto:charlie.huveneers@flinders.edu.au">e-mail</a>)
@@ -13,7 +13,7 @@ Riley, M, CJA Bradshaw, C Huveneers. 2022. Long-range electric deterrents not as
 ## Abstract
 While personal electric deterrents can reduce the risk of shark bite, evidence for the efficacy of other products is limited. We assessed two versions of a novel electric deterrent — 80 volts (V) and 150 V — designed to protect a large area (8 m deep × 6 m wide) or to be linked together for greater spatial coverage. We did 116 experimental trials on 43 white sharks (<em>Carcharodon carcharias</em>) to assess: (a) percentage of baits taken, (b) distance between bait and shark, (c) number of passes, and (d) whether sharks reacted to the deterrent. The proportion of baits taken reduced by 24% (80 V) and 48% (150 V), although high variance of the effect coefficient precluded statistical differentiation. Only the 150-V deterrent increased the distance between bait and shark (control: 1.59 ± 0.28 m versus active deterrent: 3.33 ± 0.33 m), but both versions increased the likelihood of a reaction (average reaction distance: 1.88 ± 0.14 m). Results were similar whether we measured distance using stereo-cameras or estimated them in situ, suggesting that stereo-cameras might not be necessary to quantify distances between sharks and baits. Our findings provide more evidence that electric deterrents can reduce the risk of shark bite, but the restricted efficacy limits the suitability of this device.
 
-<img align="center" src="www/fig1.png" alt="thylacine" width="1000" style="margin-top: 20px">
+<img align="center" src="www/fig1.png" alt="Experimental set-up during deterrent-test trials, showing (a) the entire experimental set-up and (b) the stereo-camera" width="1000" style="margin-top: 20px">
 
 ## References
 We also provide some PDF copies of relevant references cited in the paper (in the <a href="https://github.com/MadelineRiley95/Long-range-electric-deterrents-testing/tree/main/refs"><em>refs</em></a> folder):
